@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+//adding github test comments
+
 /*
 //g++ -o 1113Lab1.exe 1113Lab1.cpp
 int main(){
